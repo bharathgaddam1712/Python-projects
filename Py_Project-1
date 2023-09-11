@@ -1,3 +1,5 @@
+''' A randoom word guessing game '''
+
 import random
 
 name = input("Enter your name: ")
